@@ -64,9 +64,10 @@ a:hover
  }
  .banner
  {
-     width:100%;
+     width:100vw;
      background-image: url('./Image.jpg');
      color: white;
+     height:100vh;
      display: flex;
      justify-content: center;
      align-items: center;
